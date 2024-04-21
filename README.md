@@ -1,0 +1,2 @@
+# gitjournal
+Magazine with articles
